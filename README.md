@@ -6,7 +6,7 @@
 ![Audience](https://img.shields.io/badge/Audience-Everyone-brightgreen?style=flat-square)
 ![Maintained](https://img.shields.io/badge/Maintained-Yes-blue?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
-![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME/claude-prompt-library?style=flat-square)
+![GitHub Stars](https://img.shields.io/github/stars/badripad8-cmyk/claude-prompt-library?style=flat-square)
 
 -----
 
